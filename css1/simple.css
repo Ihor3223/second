@@ -1,0 +1,66 @@
+.my {
+  padding: 15px;
+
+  background-color: #a62525;
+  text-align: center;
+  color: white;
+}
+.body {
+  margin: auto;
+}
+.img1 {
+  display: block;
+  margin: 0 auto;
+  width: 686px;
+}
+.texte {
+  color: #000;
+  font-weight: 600;
+  font-style: italic;
+}
+.kek {
+  text-align: center;
+}
+.quo {
+  font-weight: bold;
+}
+.lin {
+  color: #000;
+  font-weight: 600;
+  font-style: italic;
+}
+.div {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.img2 {
+  border: 2px dashed #000000;
+}
+.img3 {
+  border: 2px dashed #000000;
+}
+.img4 {
+  border: 2px dashed #000000;
+}
+.img5 {
+  border: 2px dashed #000000;
+}
+.img6 {
+  border: 2px dashed #000000;
+}
+.lorem {
+  text-align-last: center;
+}
+.foot {
+  padding: 6px;
+  margin-top: 45px;
+  background-color: #000;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+.foot:before {
+  content: "\00AE";
+  font-size: 30px;
+}
