@@ -35,20 +35,10 @@
   justify-content: center;
 }
 .img2 {
+  cursor: pointer;
   border: 2px dashed #000000;
 }
-.img3 {
-  border: 2px dashed #000000;
-}
-.img4 {
-  border: 2px dashed #000000;
-}
-.img5 {
-  border: 2px dashed #000000;
-}
-.img6 {
-  border: 2px dashed #000000;
-}
+
 .lorem {
   text-align-last: center;
 }
